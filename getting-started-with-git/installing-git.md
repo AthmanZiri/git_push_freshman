@@ -9,4 +9,5 @@ By far the easiest way of getting git installed and ready to use is by using Ubu
 You can use the apt package management tools to update your local package index. Afterwards, you can download and install the program:
 
 -sudo apt-get update.
+
 -sudo apt-get install git
