@@ -2,3 +2,12 @@
 
 ---
 
+**How To Install Git on Ubuntu (with Apt-get)**
+
+By far the easiest way of getting git installed and ready to use is by using Ubuntu's default repositories. This is the fastest method, but the version may be older than the newest version. If you need the latest release, consider following the steps to compile git from source.
+
+You can use the apt package management tools to update your local package index. Afterwards, you can download and install the program:
+
+-sudo apt-get update.
+
+-sudo apt-get install git
